@@ -1,0 +1,39 @@
+Opgave 3.4.1
+Skriv et program der har superklassen koeretoej.
+Denne klasse skal indeholde variabler der kan indeholde vægtafgift og registreringsnummer.
+
+Programmet skal endvidere indeholde tre subklasser, personvogn, lastbil og bus.
+
+Klassen personbil skal have variabler til at angive hastighed, motor størrelse og antal hestekræfter.
+
+Klassen lastbil skal indeholde variabler for antal hestekræfter og lastkapacitet.
+
+Klassen bus skal indeholde variabler for antal passagerer, og antal døre.
+
+I hver klasse skal der være en metode til udskrivning af objektets data.
+
+Indsæt nogle personbiler, lastbiler og busser i en datastruktur koeretoejer.
+
+Udskriv data om alle objekter i koeretoejer.
+
+
+
+Opgave 3.8.1
+Skriv et program med den abstrakte superklasse ejendom.
+Tre nedarvede klasser villa, butik og etage skal have følgende egenskaber.
+
+Villa:  Konstruktøren skal modtage antal rum, antal beboede kvadratmeter og pris.
+
+Butik: Konstruktøren skal modtage beboelsesareal, butiksareal samt pris.
+
+Etage: Konstruktøren skal modtage beboelsesareal, butiksareal, antal etager og pris.
+
+Alle klasserne skal have en metode til at udskrive pris per kvadratmeter.
+
+I hver klasse skal der også være en metode til udskrivning af objektets data.
+
+Indsæt nogle villaer, butikker og etageejendomme i en datastruktur ejendomme.
+
+Udskriv data om alle ejendomme i datastrukturen ejendomme.
+
+
